@@ -10,7 +10,6 @@ header{
   display:flex;
   justify-content: space-between;
   align-items:flex-end;
-  background:pink;
   padding:10px 20px;
 }
 header p{
@@ -59,7 +58,7 @@ nav ul li a{
   position:relative;
 }
 
- nav ul >li:not(:last-child) >a::after{
+ nav >ul >li:not(:last-child) >a::after{
   content:"";
     display:inline-block;
     width: 1px;
@@ -72,7 +71,7 @@ nav ul li a{
     z-index:2;
 } 
 nav ul li a:hover{
-  color:#fff; 
+  color:#f08226; 
 }
 
 /*下の階層を持っているulの指定*/
@@ -80,7 +79,7 @@ nav li.has-child ul{
     /*絶対配置で位置を指定*/
   position: absolute;
   left:-20px;
-  top:25px;
+  top:23px;
   z-index: 4;
     /*形状を指定*/
   width:138px;
@@ -101,14 +100,18 @@ nav li.has-child ul li:active > ul{
   visibility: visible;
   opacity: 1;
 }
-nav li.has-child ul{
-  padding:5px 0;
-}
+
 /*ナビゲーションaタグの形状*/
 nav li.has-child ul li{
-  padding:6px 0;
+  padding:5px 0;
   background:white;
   opacity: .8;
+}
+nav li.has-child ul li:first-child{
+  padding-top:12px;
+}
+nav li.has-child ul li:last-child{
+  padding-bottom:12px;
 }
 nav li.has-child ul li a{
   color: #222;
@@ -119,4 +122,23 @@ nav li.has-child ul li a:active{
   color:#f08226;
 }
 
+
+#slidelist{
+  position:relative;
+  width:1024px;
+  height:468px;
+  margin:0 auto;
+  padding:0;
+}
+#slidelist li{
+  position:absolute;
+  width:100%;
+  height:100%;
+  top:0;
+  left:0;
+  list-style-type:none;
+}
+#slidelist li:not(:first-child){
+  display:none;
+}
 

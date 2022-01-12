@@ -3,11 +3,17 @@
     <head>
         <meta charset="utf-8">
         <title>タイトル</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/reset.css">
         <link rel="stylesheet" href="css/main.css">
+         <!--js  -->
+      <script defer src="js/vendor/jquery-1.12.4.min.js"></script>
+      <script defer src="js/vendor/jquery-ui-1.12.1.min.js"></script>
+      <script defer src="js/vendor/jquery.easing.1.3.js"></script>
+      <script defer src="js/main.js"></script>
+    
     </head>
-    <body>
+    <body onload="init()">
+
         <div class="container">
             <header>
                 <img id="headerLogo" src="images/ansin-logo.png" alt="株式会社 安心典礼">
@@ -72,16 +78,22 @@
       </li>
       <li class="has-child"><a href="#">お問い合わせ</a> </li>
     </ul>
-            </nav>
-            <main></main>
-            <footer></footer>
-        </div><!-- end container -->
+    </nav>
+    
+    <ul id="slidelist">
+        <li><img src="images/top-slider/slide1.jpg"></li>
+        <li><img src="images/top-slider/slide2.jpg"></li>
+        <li><img src="images/top-slider/slide3.jpg"></li>
+        <li><img src="images/top-slider/slide4.jpg"></li>
+    </ul>
+    
+    <main>
+
+    </main>
+    <footer></footer>
+</div><!-- end container -->
     
 
-      <!--js  -->
-      <scrit src="js/vendor/jquery-1.12.4.min.js"></script>
-      <script src="js/vendor/jquery-ui-1.12.1.min.js"></script>
-      <script src="js/vendor/jquery.easing.1.3.js"></script>
-      <script src="js/main.js"></script>
+     
     </body>
 </html>
