@@ -1,0 +1,122 @@
+body{
+  font-size:16px;
+  font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+}
+header{
+
+  width:1024px;
+  height:68px;
+  margin:0 auto;
+  display:flex;
+  justify-content: space-between;
+  align-items:flex-end;
+  background:pink;
+  padding:10px 20px;
+}
+header p{
+  line-height: 0.9;
+
+}
+#headerLogo{
+  width:224px;
+}
+
+/*========= ナビゲーションドロップダウンのためのCSS ===============*/
+
+/*==ナビゲーション全体の設定*/
+nav{
+  height:36px;
+  background:#548c3a;
+  color:#fff;
+}
+/*ナビゲーションを横並びに*/
+nav> ul{
+  width:1024px;
+  height:36px;
+  margin:0 auto;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  font-size:14px;
+  padding:0 80px;
+}
+/*2階層目以降は横並びにしない*/
+nav >ul> ul{
+  display: block;
+}
+
+/*下の階層のulや矢印の基点にするためliにrelativeを指定*/
+nav ul li{
+  position: relative;
+}
+
+/*ナビゲーションのリンク設定*/
+nav ul li a{
+  display: block;
+  text-decoration: none;
+  transition:all .3s;
+  position:relative;
+}
+
+ nav ul >li:not(:last-child) >a::after{
+  content:"";
+    display:inline-block;
+    width: 1px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: -13px;
+    z-index:2;
+} 
+nav ul li a:hover{
+  color:#fff; 
+}
+
+/*下の階層を持っているulの指定*/
+nav li.has-child ul{
+    /*絶対配置で位置を指定*/
+  position: absolute;
+  left:-20px;
+  top:25px;
+  z-index: 4;
+    /*形状を指定*/
+  width:138px;
+  font-size:13px;
+  text-align:center;
+    /*はじめは非表示*/
+  visibility: hidden;
+  opacity: 0;
+    /*アニメーション設定*/
+  transition: all .3s;
+}
+
+/*hoverしたら表示*/
+nav li.has-child:hover > ul,
+nav li.has-child ul li:hover > ul,
+nav li.has-child:active > ul,
+nav li.has-child ul li:active > ul{
+  visibility: visible;
+  opacity: 1;
+}
+nav li.has-child ul{
+  padding:5px 0;
+}
+/*ナビゲーションaタグの形状*/
+nav li.has-child ul li{
+  padding:6px 0;
+  background:white;
+  opacity: .8;
+}
+nav li.has-child ul li a{
+  color: #222;
+}
+
+nav li.has-child ul li a:hover,
+nav li.has-child ul li a:active{
+  color:#f08226;
+}
+
+
