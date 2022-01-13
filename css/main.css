@@ -218,3 +218,35 @@ nav li.has-child ul li a:active{
 #gridBox li:hover::after{
   background:#ea524c;
 }
+
+#topInfo{
+  width:700px;
+  margin:82px auto;
+  border-radius:3px;
+  border:1px solid #395a5c;
+}
+#topInfo h1{
+  background:#395a5c;
+  color:white;
+  font-size:21px;
+  text-align:center;
+  height:48px;
+  line-height:48px;
+}
+#pBox{
+  padding:49px 84px 35px;
+}
+#pBox p{
+  font-size:14px;
+  line-height:1.7;
+}
+#pBox p + p{
+  margin-top:35px;
+}
+#topInfo > p{
+  padding:25px 84px 25px; 
+  font-size:14px;
+  line-height:1.7;
+  background:#395a5c;
+  color:white;
+}
