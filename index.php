@@ -88,6 +88,20 @@
     </ul>
     
     <main>
+    
+            <ul id="gridBox">
+                <li>直葬・一日葬・家族葬</li>
+                <li>フューネラルホール<span class="fs18">(自社)</span></li>
+                <li>川崎市市民葬儀とは？</li>
+                <li>一般葬祭場・式場一覧</li>
+                <li>短期少額葬儀保険</li>
+                <li>寺院・霊園・石材店</li>
+                <li>行政関係<span class="fs17">(弁護士・行政書士)</span></li>
+                <li>老人ホーム・介護施設</li>
+                <li>会社概要<span class="fs12">(理念・プライバシーポリシー)</span></li>
+                <li>企業提携先一覧</li>
+            </ul>
+        
 
     </main>
     <footer></footer>

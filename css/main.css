@@ -1,3 +1,30 @@
+.fs20{
+  font-size:20px;
+}
+.fs19{
+  font-size:19px;
+}
+.fs18{
+  font-size:18px;
+}
+.fs17{
+  font-size:17px;
+}
+.fs16{
+  font-size:16px;
+}
+.fs15{
+  font-size:15px;
+}
+.fs14{
+  font-size:14px;
+}
+.fs13{
+  font-size:13px;
+}
+.fs12{
+  font-size:12px;
+}
 body{
   font-size:16px;
   font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
@@ -89,7 +116,7 @@ nav li.has-child ul{
   visibility: hidden;
   opacity: 0;
     /*アニメーション設定*/
-  transition: all .3s;
+  transition: all .2s;
 }
 
 /*hoverしたら表示*/
@@ -137,8 +164,57 @@ nav li.has-child ul li a:active{
   top:0;
   left:0;
   list-style-type:none;
+  
+}
 }
 #slidelist li:not(:first-child){
   display:none;
 }
 
+#gridBox{
+  display: grid;
+  grid-template-columns: repeat(2, 352px);
+  grid-template-rows:repeat(5,47px);
+  grid-row-gap: 30px;
+  grid-column-gap: 72px;
+  justify-content: center;
+  width: 90%;
+  margin: 69px auto;
+}
+#gridBox li{
+  font-size:24px;
+  line-height:47px;
+  padding-left:32px;
+  color:white;
+  background-color: #9f867b;
+  position:relative;
+  transition: all .2s;
+}
+#gridBox li::after{
+  content:">";
+  display:block;
+  width:26px;
+  height:26px;
+  border-radius:50%;
+  background:#816c64;
+  position:absolute;
+  right:17px;
+  bottom:10px;
+  line-height:25px;
+  text-align:center;
+  padding-left:2px;
+}
+#gridBox li span{
+  margin-left:5px;
+  vertical-align: top;
+}
+
+#gridBox li:hover{
+  cursor:pointer;
+  background-color: #ffa158; 
+}
+
+
+#gridBox li:hover::after{
+  background:#ea524c;
+}
