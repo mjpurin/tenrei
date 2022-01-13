@@ -166,7 +166,7 @@ nav li.has-child ul li a:active{
   list-style-type:none;
   
 }
-}
+
 #slidelist li:not(:first-child){
   display:none;
 }
@@ -249,4 +249,51 @@ nav li.has-child ul li a:active{
   line-height:1.7;
   background:#395a5c;
   color:white;
+}
+
+footer{
+  background:#548c3a;
+  color:white;
+  padding-top:39px;
+}
+#footerMenu{
+  width:1024px;
+  margin:0 auto;
+  overflow:hidden;
+}
+#footerMenu ul{
+  float:left;
+  font-size:12px;
+  text-align: center;
+}
+#footerMenu ul:first-child{
+  width:114px;
+  margin-left:92px;
+}
+#footerMenu ul:nth-child(2){
+  width:155px;
+  margin-left:71px;
+}
+#footerMenu ul:nth-child(3){
+  width:235px;
+  margin-left:58px;
+}
+#footerMenu ul:last-child{
+  width:168px;
+  margin-left:44px;
+}
+#footerMenu ul li{
+  margin-bottom:8px;
+  transition: all .2s;
+}
+#footerMenu ul li:hover{
+  color:#ffa158;
+}
+#footerMenu ul li span{
+  font-size:11px;
+}
+footer #copyRight{
+  font-size:13px;
+  text-align: center;
+  padding:25px;
 }
