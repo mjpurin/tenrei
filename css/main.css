@@ -297,3 +297,15 @@ footer #copyRight{
   text-align: center;
   padding:25px;
 }
+
+/*****slick*****/
+#subSliderBox{
+  height:354px;
+  background:#a9c287;
+  padding-top:24px;
+}
+#subSlider{
+  width:720px;
+  height:300px;
+  margin:0 auto;
+}
