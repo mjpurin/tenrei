@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="css/slick.css">
         <link rel="stylesheet" href="css/slick-theme.css">
         <link rel="stylesheet" href="css/main.css">
+      
          <!--js  -->
       <script  src="js/vendor/jquery-1.12.4.min.js"></script>
       <script  src="js/vendor/jquery-ui-1.12.1.min.js"></script>
@@ -77,6 +78,6 @@
         <li><a href="#">川崎市市民葬儀</a></li>
         </ul>
       </li>
-      <li class="has-child"><a href="#">お問い合わせ</a> </li>
+      <li class="has-child"><a href="contact.php">お問い合わせ</a> </li>
     </ul>
     </nav>
