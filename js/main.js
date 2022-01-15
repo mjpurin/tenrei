@@ -14,7 +14,7 @@ function slideChange($target){
   let index=0;//表示する画像のindex
 
   function open(){
-    $items.eq(index).fadeIn(1200,'easeInQuad',function(){setTimeout(change,2000)})
+    $items.eq(index).fadeIn(1200,'easeInQuad',function(){setTimeout(change,5000)})
   }
   function close(){
     $items.eq(index).fadeOut(1200,'easeOutQuad');

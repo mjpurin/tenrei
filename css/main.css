@@ -132,7 +132,7 @@ nav li.has-child ul li:active > ul{
 nav li.has-child ul li{
   padding:5px 0;
   background:white;
-  opacity: .8;
+  opacity: .9;
 }
 nav li.has-child ul li:first-child{
   padding-top:12px;
