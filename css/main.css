@@ -324,7 +324,9 @@ footer #copyRight{
 
 
 /****contact****/
-#contact h1{
+#contact h1,
+#price h1
+{
   width:800px;
   height:34px;
   background:#005f51;
@@ -334,11 +336,15 @@ footer #copyRight{
   font-size:20px;
   line-height:34px;
 }
-#contact h1 + p{
+#contact h1 + p,
+#price h1 + p
+{
   font-size:16px;
   text-align:center;
 }
-#contact h2{
+#contact h2,
+#price h2
+{
   width:760px;
   padding-left:10px;
   margin:40px auto 20px;
@@ -468,4 +474,9 @@ footer #copyRight{
 	border-radius:5px;
 	transform: rotate(-4deg);
 
+}
+
+#priceBox{
+  width:800px;
+  margin:0 auto;
 }
