@@ -10,7 +10,17 @@ session_start();
 </div>
 <main id="price">
   <h1>◇ 価格別葬儀祭壇　できるだけ費用を抑えたい</h1>
-  <p>C-1　/　C-2　/　C-3　/　D-1　/　D-2　/　D-3（家族葬）/　一日葬　/　直葬　/価格一覧</p>
+  <p id="priceList">
+  <a href=""><span>C-1</span></a>/
+  <a href=""><span>C-2</span></a>/
+  <a href=""><span>C-3</span></a>/
+  <a href=""><span>D-1</span></a>/
+  <a href=""><span>D-2</span></a>/
+  <a href="d_3.php"><span class="active">D-3（家族葬）</span></a>/
+  <a href=""><span>一日葬</span></a>/
+  <a href=""><span>直葬</span></a>/
+  <a href=""><span>価格一覧</span></a>
+  </p>
   <h2>基本葬儀セット内容</h2>
   <div id="priceBox">
   <?php
@@ -27,7 +37,9 @@ $(document).ready(function(){
     autoplaySpeed:5000,
   });
 });
-
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
 </script>
 </main>
 <?php include('../foot.php');?> 
