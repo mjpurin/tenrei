@@ -1,7 +1,7 @@
 <?php
 session_start();
 ?>
-<?php include('../headPrice.php');?>
+<?php include('../head.php');?>
 <div id="subSliderBox">
 <div id="subSlider">
          <div><a href=""><img alt="画像1" src="../images/sub-slider/PR_hall.jpg" /></a></div>
@@ -16,7 +16,7 @@ session_start();
   <a href=""><span>C-3</span></a>/
   <a href=""><span>D-1</span></a>/
   <a href=""><span>D-2</span></a>/
-  <a href="d_3.php"><span class="active">D-3（家族葬）</span></a>/
+  <a href="d_3.php"><span class="<?=$fileName==='d_3.php' ? 'active':''?>">D-3（家族葬）</span></a>/
   <a href=""><span>一日葬</span></a>/
   <a href=""><span>直葬</span></a>/
   <a href=""><span>価格一覧</span></a>
