@@ -162,442 +162,132 @@
           <tr>
             <td colspan="4" valign="top">
               <!--項目一覧テーブル-->
-              <table width="380">
+              <table id="priceMainTable">
                 <tbody>
                   <tr>
-                  <td width="111" align="center" style="width:86.4pt;border:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:
-
-  Century">項　　　目</span></font></td>
-                  <td width="239" style="width:180.0pt;border:solid windowtext .5pt;border-left:
-
-  none;mso-border-left-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:
-
-  Century;mso-hansi-font-family:Century">　内　　容</span></font></td>
+                  <th>項目</th>
+                  <th>内容</th>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　祭　　　　　壇</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" nowrap="nowrap" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">白木6尺もしくはフラワー6尺</span></font></td>
+                  <td>祭壇</td>
+                  <td>白木6尺もしくはフラワー6尺</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　寝　　　　　棺</span></font></td>
-                  <td width="239" height="10" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">桐六分、布団、仏衣付</span></font></td>
+                  <td>寝棺</td>
+                  <td>桐六分、布団、仏衣付</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　寝　　台　　車</span></font></td>
-                  <td width="239" height="10" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">基本の10kmまで（吸水シーツ付）</span></font></td>
+                  <td>寝台車</td>
+                  <td>基本の10kmまで（吸水シーツ付）</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　霊　　柩　　車</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">火葬場までの基本10kmまで</span></font></td>
+                  <td>霊柩車</td>
+                  <td>火葬場までの基本10kmまで</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　火　　葬　　料</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>火葬料</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　収　骨　容　器</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>収骨容器</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　位　　　　　牌</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">白木、中上位</span></font></td>
+                  <td>位牌</td>
+                  <td>白木、中上位</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　遺　　　　　影</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">カラー、四つ切額リボン付、手札付き</span></font></td>
+                  <td>遺影</td>
+                  <td>カラー、四つ切額リボン付、手札付き</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　ドライアイス</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">基本の10kg1回分</span></font></td>
+                  <td>ドライアイス</td>
+                  <td>基本の10kg1回分</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　枕　　飾　　り</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">枕机、枕飾りセット一式、枕花</span></font></td>
+                  <td>枕飾り</td>
+                  <td>枕机、枕飾りセット一式、枕花</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　後飾り　セット</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>後飾りセット</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　式場内外装飾幕</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>式場内外装飾幕</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　受　付　用　品</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:
-
-  &quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">受付机1台、香典帳2冊、会葬帳2冊</span></font></td>
+                  <td>受付用品</td>
+                  <td>受付机1台、香典帳2冊、会葬帳2冊</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　焼香所　用　品</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">焼香台1台、焼香炭、抹香</span></font></td>
+                  <td>焼香所用品</td>
+                  <td>焼香台1台、焼香炭、抹香</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　照　明　設　備</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>照明設備</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　放　送　設　備</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>放送設備</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="10"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　テント/テーブル</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="10"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>テント/テーブル</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　役所手続き代行</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">火葬手続き代行</span><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt" lang="EN-US" xml:lang="EN-US">
-                    <o:p></o:p>
-                  </span></font></td>
+                  <td>役所手続き代行</td>
+                  <td>火葬手続き代行</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　会　葬　礼　状</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>会葬礼状</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　門　前　飾　り</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>門前飾り</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　式場看板 / 提灯</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>式場看板 / 提灯</span></font></td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　式 場 案 内 板</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>式 場 案 内 板</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　特　　注　　品</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">実費料金</span></font></td>
+                  <td>特注品</td>
+                  <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　人　　件　　費</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">人件費セットＤランク</span></font></td>
+                  <td>人件費</td>
+                  <td>人件費セットＤランク</td>
                 </tr>
                 <tr>
-                  <td width="111" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;ＭＳ 明朝&quot;;
-
-  mso-ascii-font-family:Century;mso-hansi-font-family:Century">　そ　　の　　他</span></font></td>
-                  <td width="239" style="width:180.0pt;border-top:none;border-left:none;
-
-  border-bottom:solid windowtext .5pt;border-right:solid windowtext .5pt;
-
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-
-  padding:0mm 5.4pt 0mm 5.4pt" height="8"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">忌中額、お清めセット</span>&gt;</font></td>
+                  <td>その他</td>
+                  <td>忌中額、お清めセット</td>
                 </tr>
                 <tr>
-                  <td colspan="2" style="width:86.4pt;border:solid windowtext .5pt;border-top:
-
-  none;mso-border-top-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt"><table border="0">
-                      <tbody><tr>
-                        <td height="10" align="left" nowrap="nowrap"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">地域の風習、しきたりなどにより内容が変わる場合があります。</span></font></td>
+                  <td colspan="2">
+                    <table>
+                      <tbody>
+                        <tr>
+                        <td>地域の風習、しきたりなどにより内容が変わる場合があります。</td>
                       </tr>
                       <tr>
-                        <td height="10" align="left" nowrap="nowrap"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
-
-  font-family:&quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">バス、ハイヤー、盛物、仕出し料理、返礼品、貸し会場、外注品</span></font></td>
+                        <td>バス、ハイヤー、盛物、仕出し料理、返礼品、貸し会場、外注品</td>
                       </tr>
                       <tr>
-                        <td height="10" align="left" nowrap="nowrap"><font face="ＭＳ Ｐゴシック, Osaka" size="2"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;font-family:
-
-  &quot;ＭＳ 明朝&quot;;mso-ascii-font-family:Century;mso-hansi-font-family:Century">宗教者のお礼、各心づけ等は別途料金となります。</span></font></td>
+                        <td>宗教者のお礼、各心づけ等は別途料金となります。</td>
                       </tr>
-                  </tbody></table></td>
-                </tr>
-            </tbody></table></td>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
             <td width="1">&nbsp;</td>
           </tr>
           <!--下部備考-->
