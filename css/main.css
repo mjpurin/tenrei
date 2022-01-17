@@ -670,7 +670,7 @@ footer #copyRight{
   display:grid;
   grid-template-columns: repeat(3,49px);
   grid-template-rows: repeat(3,45px);
-  gap:7px;
+  gap:7.2px;
 
 }
 .partGrid li{
