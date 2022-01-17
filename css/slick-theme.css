@@ -21,21 +21,16 @@
 {
     font-size: 0;
     line-height: 0;
-
     position: absolute;
     top: 50%;
-
     display: block;
-
-    width: 20px;
-    height: 20px;
+    width: 26px;
+    height: 26px;
     padding: 0;
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
     transform: translate(0, -50%);
-
     cursor: pointer;
-
     color: transparent;
     border: none;
     outline: none;
@@ -66,15 +61,13 @@
 .slick-prev:before,
 .slick-next:before
 {
-    font-family: 'slick';
-    font-size: 28px;
-    line-height: 1;
+    font-size: 26px;
     display:block;
     width:26px;
     height:26px;
     background:#548c3a;
     text-align:center;
-    line-height:21px;
+    line-height:23px;
     border-radius:50%;
     
 
@@ -97,7 +90,7 @@
 }
 .slick-prev:before
 {
-    content: '<';
+    content: url(../images/leftArr.png);;
     padding-right:2px;
 }
 [dir='rtl'] .slick-prev:before
@@ -116,7 +109,8 @@
 }
 .slick-next:before
 {
-    content: '>';
+    content: url(../images/rightArr.png);
+
     padding-left:4px;
 }
 [dir='rtl'] .slick-next:before
