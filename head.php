@@ -33,9 +33,9 @@ switch($fileName){
             <nav>
             <ul>
       <li class="<?=$fileName ==='index.php' ? 'active':''?>"><a href="<?=$root?>index.php">Home</a></li>
-      <li class="has-child <?= in_array($fileName,['d_2.php','d_3.php'])? 'active':''?>"><a href="">価格別葬儀祭壇</a>
+      <li class="has-child <?= in_array($fileName,['d_2.php','d_3.php','kazoku.php'])? 'active':''?>"><a href="">価格別葬儀祭壇</a>
         <ul>
-        <li><a href="#">直葬/1日葬/家族葬</a></li>
+        <li class="<?=$fileName ==='kazoku.php' ? 'active':''?>"><a href="<?=$root?>kazoku.php">家族葬/一日葬/直葬</a></li>
         <li class="<?=$fileName ==='d_3.php' ? 'active':''?>"><a href="<?=$root?>price/d_3.php">やや費用を抑えたい</a></li>
         <li><a href="#">一般的な葬儀価格帯</a></li>
         <li><a href="#">立派にしてあげたい</a></li>

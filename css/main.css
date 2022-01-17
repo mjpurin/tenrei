@@ -558,7 +558,6 @@ footer #copyRight{
 }
 .part .imgBox{
   
-  height:360px;
   padding:8px;
   border:1px solid #828282;
   border-radius:5px;
@@ -591,6 +590,12 @@ footer #copyRight{
 }
 .part.blue button{
   background-color:#006699;
+}
+.part.brown button{
+  background-color:#702a11;
+}
+.part.pink button{
+  background-color:#f099bf;
 }
 .part button::after{
   content: "";
@@ -625,6 +630,12 @@ footer #copyRight{
 }
 .part.blue h1{
   color:#006699;
+}
+.part.brown h1{
+  color:#702a11;
+}
+.part.pink h1{
+  color:#f099bf;
 }
 .part h1 span{
   font-size:19px;
@@ -665,6 +676,12 @@ footer #copyRight{
 .part.blue .boxes ul:first-child li{
   background:#006699;
 }
+.part.brown .boxes ul:first-child li{
+  background:#702a11;
+}
+.part.pink .boxes ul:first-child li{
+  background:#f099bf;
+}
 .boxes .partGrid{
   margin-left:12px;
   display:grid;
@@ -694,6 +711,12 @@ footer #copyRight{
 .blue .partGrid li{
   background:#006699;
 }
+.brown .partGrid li{
+  background:#702a11;
+}
+.pink .partGrid li{
+  background:#f099bf;
+}
 .partGrid li.grey{
   background:#b5b5b5 !important;
 }
@@ -709,4 +732,29 @@ footer #copyRight{
 
 section.part.even{
   flex-direction:row-reverse;
+}
+
+.part .figureBox{
+  display:grid;
+  grid-template-columns: repeat(2,190px);
+  grid-template-rows: repeat(2,207px);
+  column-gap: 4px;
+  row-gap:15px;
+  padding-bottom:16px;
+}
+.part .figureBox figcaption{
+  text-align:center;
+  font-size:12px;
+  padding-top:5px;
+  padding-left:6px;
+}
+.part h4{
+  font-size:20px;
+  margin-left:20px;
+  color:#f099bf;
+  margin-top:55px;
+  margin-bottom:12px;
+}
+.part .hasMT{
+  margin-top:16px;
 }
