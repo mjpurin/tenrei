@@ -42,51 +42,35 @@ switch($fileName){
         <li><a href="#">川崎市市民葬儀</a></li>
         </ul>
       </li>
-      <li class="has-child"><a href="#">少額短期葬儀保険</a>
-        <ul>
-        <li><a href="#">直葬/1日葬/家族葬</a></li>
-        <li><a href="#">やや費用を抑えたい</a></li>
-        <li><a href="#">一般的な葬儀価格帯</a></li>
-        <li><a href="#">立派にしてあげたい</a></li>
-        <li><a href="#">川崎市市民葬儀</a></li>
-        </ul>
+      <li class=""><a href="#">少額短期葬儀保険</a>
       </li>
       <li class="has-child"><a href="#">ホール・葬儀場</a>
         <ul>
-        <li><a href="#">直葬/1日葬/家族葬</a></li>
-        <li><a href="#">やや費用を抑えたい</a></li>
-        <li><a href="#">一般的な葬儀価格帯</a></li>
-        <li><a href="#">立派にしてあげたい</a></li>
-        <li><a href="#">川崎市市民葬儀</a></li>
+        <li><a href="#">フューネラルホール（自社）</a></li>
+        <li><a href="#">一般葬祭場・式場一覧</a></li>
         </ul>
       </li>
-      <li class="has-child"><a href="#">寺院・霊園・石材店</a>
-        <ul>
-        <li><a href="#">直葬/1日葬/家族葬</a></li>
-        <li><a href="#">やや費用を抑えたい</a></li>
-        <li><a href="#">一般的な葬儀価格帯</a></li>
-        <li><a href="#">立派にしてあげたい</a></li>
-        <li><a href="#">川崎市市民葬儀</a></li>
-        </ul>
+      <li class=""><a href="#">寺院・霊園・石材店</a>
       </li>
       <li class="has-child"><a href="#">葬儀の知識</a>
         <ul>
-        <li><a href="#">直葬/1日葬/家族葬</a></li>
-        <li><a href="#">やや費用を抑えたい</a></li>
-        <li><a href="#">一般的な葬儀価格帯</a></li>
-        <li><a href="#">立派にしてあげたい</a></li>
-        <li><a href="#">川崎市市民葬儀</a></li>
+        <li><a href="#">役立つ葬儀ガイド</a></li>
+        <li><a href="#">葬儀豆知識</a></li>
         </ul>
       </li>
       <li class="has-child"><a href="#">暮らし</a>
         <ul>
-        <li><a href="#">直葬/1日葬/家族葬</a></li>
-        <li><a href="#">やや費用を抑えたい</a></li>
-        <li><a href="#">一般的な葬儀価格帯</a></li>
-        <li><a href="#">立派にしてあげたい</a></li>
-        <li><a href="#">川崎市市民葬儀</a></li>
+        <li><a href="#">行政関係(弁護士・行政書士)</a></li>
+        <li><a href="#">老人ホーム・介護施設</a></li>
+        <li><a href="#">安心の会</a></li>
+        <li><a href="#">企業提携先一覧</a></li>
         </ul>
       </li>
-      <li class="<?=$fileName ==='contact.php' ? 'active':''?>"><a href="<?=$root?>contact.php">お問い合わせ</a> </li>
+      <li class="has-child <?=$fileName ==='contact.php' ? 'active':''?>"><a href="<?=$root?>contact.php">お問い合わせ</a> 
+        <ul>
+        <li><a href="#">メールフォーム</a></li>
+        <li><a href="#">会社概要</a></li>
+        </ul>
+    </li>
     </ul>
     </nav>
