@@ -27,7 +27,7 @@ switch($fileName){
     <body onload="init()">
         <div class="container">
             <header>
-                <img id="headerLogo" src="<?=$root?>images/ansin-logo.png" alt="株式会社 安心典礼">
+                <img id="headerLogo" src="<?=$root?>images/ansin-logo.svg" alt="株式会社 安心典礼">
                 <p>年中無休・24時間対応　TEL:044-975-3853 (代表)　事前相談、無料でお受けいたします</p>
             </header>
             <nav>
