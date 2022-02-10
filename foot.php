@@ -1,4 +1,7 @@
 <footer>
+        <div class="pageTopLink">
+            <img id="pageTopIcon" src="<?=$root?>images/pageTop.png" alt=”ページトップへ”>
+        </div>
         <div id="footerMenu">
             <ul>
                 <li><a href="">ホーム</a></li>

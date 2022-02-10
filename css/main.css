@@ -272,6 +272,16 @@ footer{
   background:#548c3a;
   color:white;
   padding-top:39px;
+  position:relative;
+  margin-top:150px;
+}
+.pageTopLink{
+  position:absolute;
+  right:280px;
+  top:-100px;
+}
+.pageTopLink:hover{
+  opacity:.8;
 }
 #footerMenu{
   width:1024px;

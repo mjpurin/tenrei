@@ -21,6 +21,7 @@ switch($fileName){
       <script  src="<?=$root?>js/vendor/jquery-1.12.4.min.js"></script>
       <script  src="<?=$root?>js/vendor/jquery-ui-1.12.1.min.js"></script>
       <script  src="<?=$root?>js/vendor/jquery.easing.1.3.js"></script>
+      <script  src="<?=$root?>js/pageTopLink.js"></script>
       <script  src="<?=$root?>js/main.js"></script>
     
     </head>
