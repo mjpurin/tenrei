@@ -3,10 +3,8 @@ const init=()=>{
   navController();
   //呼び出し
   slideChange($('#slidelist'));
+  smoothScroll();
 }
-  
-
-
 
 function slideChange($target){
   //li要素を取り出す(jQuery配列)
@@ -32,4 +30,15 @@ function navController(){
   $(".has-child>a").off('click');//has-childクラスがついたaタグのonイベントをoff(無効)にし
   $(".has-child>a").removeClass('active');//activeクラスを削除
   $('.has-child').children('ul').css("display","");//スライドトグルで動作したdisplayも無効化にする 
+}
+
+function smoothScroll(){
+  $('a[href^="#"]').click(function(){
+    let speed = 400;
+    let href= $(this).attr("href");
+    let target = $(href == "#" || href == "" ? 'html' : href);
+    let position = target.offset().top;
+    $('body,html').animate({scrollTop:position}, speed, 'swing');
+    return false;
+  }); 
 }

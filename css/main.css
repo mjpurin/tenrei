@@ -272,20 +272,23 @@ footer{
   background:#548c3a;
   color:white;
   padding-top:39px;
-  position:relative;
   margin-top:150px;
+}
+#footerInner{
+  width:1024px;
+  margin:0 auto;
+  position:relative;
 }
 .pageTopLink{
   position:absolute;
-  right:280px;
-  top:-100px;
+  right:7px;
+  top:-130px;
 }
 .pageTopLink:hover{
   opacity:.8;
 }
 #footerMenu{
-  width:1024px;
-  margin:0 auto;
+  
   overflow:hidden;
 }
 #footerMenu ul{
@@ -770,4 +773,96 @@ section.part.even{
 }
 .part .hasMT{
   margin-top:16px;
+}
+/****kasoba****/
+#kasoba{
+  width:1024px;
+  margin:0 auto;
+
+}
+#kasoba h1{
+  height:120px;
+  background:url(../images/kasoba/head.png);
+  font-size:22px;
+  color:#dd5a18;
+  line-height:120px;
+  text-align:right;
+  padding-right:95px;
+  margin-bottom:64px;
+}
+#kasoba h1 a{
+  
+  padding:0 10px;
+}
+#kasoba h1 a:hover{
+  text-decoration: underline;
+}
+#kasoba h2{
+  width:800px;
+  height:34px;
+  margin:50px auto 30px;
+  background:#209865;
+  font-size:20px;
+  color:white;
+  line-height:34px;
+  padding-left:15px;
+}
+
+.secRow{
+  display:flex;
+  width:664px;
+  margin:0 auto 30px;
+}
+.secCol{
+  width:302px;
+  border:1px solid #000;
+  border-radius:5px;
+  padding:12px 15px;
+}
+.secCol:nth-child(even){
+  margin-left:60px;
+}
+.secCol h3{
+  margin-top:12px;
+  margin-left:20px;
+  position:relative;
+  width:220px;
+}
+.secCol h3:before{
+  content:"◇";
+  position:absolute;
+  top:0px;
+  left:-20px;
+}
+.secCol h3:after{
+  content:"公営";
+  display:block;
+  text-align: center;
+  line-height:20px;
+  position:absolute;
+  top:0;
+  right:-30px;
+  font-size:14px;
+  color:#b35721;
+  border:1px solid #b35721;
+  padding:2px 5px;
+}
+.secCol h3.minei:after{
+  content:"民営";
+  color:#289962;
+  border:1px solid #289962;
+}
+.secCol ul{
+  margin-top:12px;
+  margin-left:20px;
+}
+.secCol ul li{
+  margin-bottom:5px;
+  font-size:14px;
+}
+.secCol ul li:last-child{
+  margin-top:16px;
+}
+.secCol ul li a{
+  text-decoration: underline;
 }

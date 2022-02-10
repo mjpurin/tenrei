@@ -48,7 +48,7 @@ switch($fileName){
       <li class="has-child"><a href="#">ホール・葬儀場</a>
         <ul>
         <li><a href="#">フューネラルホール（自社）</a></li>
-        <li><a href="#">一般葬祭場・式場一覧</a></li>
+        <li class="<?=$fileName ==='kasoba.php' ? 'active':''?>"><a href="<?=$root?>kasoba.php"">一般葬祭場・式場一覧</a></li>
         </ul>
       </li>
       <li class=""><a href="#">寺院・霊園・石材店</a>
