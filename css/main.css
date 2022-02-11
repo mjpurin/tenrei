@@ -866,3 +866,138 @@ section.part.even{
 .secCol ul li a{
   text-decoration: underline;
 }
+
+/****hall****/
+#hall {
+  width:1024px;
+  margin:0 auto;
+}
+#hall h2{
+  font-size:31px;
+  width:800px;
+  height:50px;
+  margin:51px auto 26px;
+  border-bottom:2px solid #000;
+  border-top:2px solid #000;
+  text-align:center;
+  line-height:47px;
+}
+.h2P{
+  width:740px;
+  margin:0 auto;
+  font-size:20px;
+  line-height:1.6;
+  text-align: justify;
+}
+#hallWrapper{
+  width:800px;
+  margin:65px auto 30px;
+}
+#hallWrapper h3{
+  width:148px;
+  height:40px;
+  text-align: center;
+  line-height:42px;
+  font-size:20px;
+  color:white;
+  background:#973923;
+  margin-bottom:9px;
+}
+#hallBanner{
+  margin-top:57px;
+  height:370px;
+  background:#f3f1e3;
+  border:1px solid #231815;
+}
+#bannerImgs{
+  margin:23px 19px 18px;
+  display: flex;
+  justify-content:space-between;
+}
+#hallBanner p{
+  height:37px;
+  font-size:23px;
+  color:white;
+  line-height:37px;
+  text-align: center;
+  background:#6db664;
+}
+#hallBanner ul{
+  display: flex;
+  justify-content: space-between;
+  margin:18px 26px 0;
+}
+#hallBanner ul li{
+  width:110.5px;
+  height:80.5px;
+  border:1px solid white;
+  text-align: center;
+  color:white;
+  box-shadow:0 0 0 3px #00bcbc;
+  background-color: #00bcbc;
+  font-size:24px;
+  line-height:1.4;
+  padding-top:7px;
+  
+}
+
+#rokkaku{
+  width:728px;
+  height:407px;
+  background:url(../images/hall/6kaku.png);
+  margin:87px auto 121px;
+  position:relative;
+}
+#rokkaku h4{
+  font-size:16px;
+  color:#367c38;
+  margin-bottom:10px;
+}
+#rokkaku p{
+  font-size:15px;
+  line-height: 1.3;
+}
+#rokkaku #ozashiki{
+  position:absolute;
+  top: -17px;
+  left:158px;
+}
+#rokkaku #onkyo{
+  position:absolute;
+  top: 218px;
+  left:17px;
+}
+#rokkaku #seika{
+  position:absolute;
+  top: -21px;
+  left:444px;
+}
+#rokkaku #butsugu{
+  position:absolute;
+  top: 357px;
+  left:254px;
+}
+#rokkaku #gyosha{
+  position:absolute;
+  top: 349px;
+  left:4px;
+  width:223px;
+  border:1px solid #000;
+}
+#rokkaku #gyosha h5{
+  font-size:16px;
+  border-bottom:1px solid #000;
+  padding:5px 10px;
+}
+#rokkaku #gyosha ul li{
+  position:relative;
+  font-size:13px;
+  margin:7px 0 7px 25px;
+  
+}
+#rokkaku #gyosha ul li:before{
+  content:"◇";
+  position:absolute;
+  top: 0;
+  left:-15px;
+}
