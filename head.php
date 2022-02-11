@@ -34,7 +34,7 @@ switch($fileName){
             <nav>
             <ul>
       <li class="<?=$fileName ==='index.php' ? 'active':''?>"><a href="<?=$root?>index.php">Home</a></li>
-      <li class="has-child <?= in_array($fileName,['d_2.php','d_3.php','kazoku.php'])? 'active':''?>"><a href="">価格別葬儀祭壇</a>
+      <li class="has-child <?= in_array($fileName,['d_2.php','d_3.php','kazoku.php'])? 'active':''?>"><a href="#">価格別葬儀祭壇</a>
         <ul>
         <li class="<?=$fileName ==='kazoku.php' ? 'active':''?>"><a href="<?=$root?>kazoku.php">家族葬/一日葬/直葬</a></li>
         <li class="<?=$fileName ==='d_3.php' ? 'active':''?>"><a href="<?=$root?>price/d_3.php">やや費用を抑えたい</a></li>
@@ -47,8 +47,8 @@ switch($fileName){
       </li>
       <li class="has-child"><a href="#">ホール・葬儀場</a>
         <ul>
-        <li><a href="#">フューネラルホール（自社）</a></li>
-        <li class="<?=$fileName ==='kasoba.php' ? 'active':''?>"><a href="<?=$root?>kasoba.php"">一般葬祭場・式場一覧</a></li>
+        <li class="<?=$fileName ==='hall.php' ? 'active':''?>"><a href="<?=$root?>hall.php">フューネラルホール（自社）</a></li>
+        <li class="<?=$fileName ==='kasoba.php' ? 'active':''?>"><a href="<?=$root?>kasoba.php">一般葬祭場・式場一覧</a></li>
         </ul>
       </li>
       <li class=""><a href="#">寺院・霊園・石材店</a>

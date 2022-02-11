@@ -32,7 +32,7 @@
             </ul>
         </div>
         <div id="copyRight">Copyright   株式会社 安心典礼  -All Rights Reserved-</div>
-        </div<!-- end footerInner -->>
+        </div><!-- end footerInner -->
     </footer>
 </div><!-- end container -->    
     </body>
