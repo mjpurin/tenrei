@@ -57,7 +57,69 @@
     </div>
 
   </div><!-- rokkakuEnd -->
+  <div id="priceTable">
+    <table>
+      <tr>
+        <th>ホールご利用時間</th>
+        <th>ホールご利用料金</th>
+        <th>備考</th>
+      </tr>
+      <tr>
+        <td>15：00～翌14:00</td>
+        <td>110,000円（税込）</td>
+        <td>寝台車・保管料金は別途<br>親族の宿泊は出来ません</td>
+      </tr>
+    </table>
+    
+  </div>
+  <div id="priceButtons">
+  <button onclick="location.href='#'">フューネラルホールに関するお問い合わせこちら</button>
+  <button onclick="location.href='kazoku.php'">家族葬・一日葬・直葬のプラン例と料金はこちら</button>
+  </div>
+  <div id="map">
+  <h3>アクセス</h3>
+    <div id="mapBox">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3244.1331058392702!2d139.5631073511297!3d35.5997830801164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f7296c1b7021%3A0x18853792d7a263b6!2z44CSMjE2LTAwMjYg56We5aWI5bed55yM5bed5bSO5biC5a6u5YmN5Yy65Yid5bGx77yR5LiB55uu77yS77yQ4oiS77yR77yT!5e0!3m2!1sja!2sjp!4v1644666475292!5m2!1sja!2sjp" width="800" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+    <p>〒216-0026　川崎市宮前区初山1-20-13　TEL:044-975-3853<br>
+    JR南武線「武蔵溝ノ口」駅/東急田園都市線 「溝の口」駅より市バス　菅生車庫行き「初山」バス停下車
+    </p>
+  </div>
+  <div id="nearKasoba">
+    <h3>近隣の公営火葬場料金</h3>
+    <div id="nearWrapper">
+      <h4>◇川崎市の公営火葬場料金</h4>
+      <table>
+        <tr class="wide"><td colspan="3">
+        <a href="kasoba.php#kawasaki"><span>かわさき北部斎苑</span></a>
+        /
+        <a href="kasoba.php#kawasaki"><span>かわさき南部斎苑</span></a>
+        </td></tr>
+        <tr class="wide"><td>年齢</td><td class="orange">市内居住者</td><td>市外居住者</td></tr>
+        <tr class="grey"><td>12歳以上</td><td>4,500円</td><td>60,000円</td></tr>
+        <tr><td>12歳未満</td><td>3,000円</td><td>30,000円</td></tr>
+      </table>
+      <h4>◇横浜市の公営火葬場料金</h4>
+      <table>
+        <tr class="wide"><td colspan="3">
+        <a href="#"><span>横浜北部斎場</span></a>
+        /
+        <a href="#"><span>横浜南部</span></a>
+        /
+        <a href="#"><span>戸塚</span></a>
+        /
+        <a href="#"><span>久保山</span></a>
+        </td></tr>
+        <tr class="wide"><td>年齢</td><td class="orange">市内居住者</td><td>市外居住者</td></tr>
+        <tr class="grey"><td>12歳以上</td><td>12,000円</td><td>50,000円</td></tr>
+        <tr><td>12歳未満</td><td>8,000円</td><td>34,000円</td></tr>
+      </table>
+
+    </div>
+   <p>※当ホールに最寄りの火葬場は、かわさき北部斎苑（JR南武線「津田山」駅）です。</p> 
+  </div>
 </div><!-- hallWrapperEnd -->
+
 </main>
 
 <?php include('foot.php');?> 
