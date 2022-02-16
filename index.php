@@ -11,8 +11,8 @@
     <main>
     
             <ul id="gridBox">
-                <li>直葬・一日葬・家族葬</li>
-                <li>フューネラルホール<span class="fs18">(自社)</span></li>
+                <li><a href="kazoku.php">直葬・一日葬・家族葬</a></li>
+                <li><a href="hall.php">フューネラルホール<span class="fs18">(自社)</span></a></li>
                 <li>川崎市市民葬儀とは？</li>
                 <li>一般葬祭場・式場一覧</li>
                 <li>短期少額葬儀保険</li>

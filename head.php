@@ -2,6 +2,7 @@
 $fileName=basename($_SERVER['PHP_SELF']);
 $root='./';
 switch($fileName){
+  case 'd_2.php':
   case 'd_3.php':
     $root='../';
     break;
