@@ -137,10 +137,13 @@ nav li.has-child ul{
 }
 
 /*hoverしたら表示*/
-nav li.has-child:hover > ul,
-nav li.has-child ul li:hover > ul,
-nav li.has-child:active > ul,
-nav li.has-child ul li:active > ul{
+nav li.has-child:hover > ul
+/*
+,nav li.has-child ul li:hover > ul
+,nav li.has-child:active > ul,
+nav li.has-child ul li:active > ul
+*/
+{
   visibility: visible;
   opacity: 1;
 }
