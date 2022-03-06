@@ -1,4 +1,8 @@
 <footer>
+    <div id="footerInner">
+        <div class="pageTopLink">
+            <img id="pageTopIcon" src="<?=$root?>images/pageTop.png" alt=”ページトップへ”>
+        </div>
         <div id="footerMenu">
             <ul>
                 <li><a href="">ホーム</a></li>
@@ -28,6 +32,7 @@
             </ul>
         </div>
         <div id="copyRight">Copyright   株式会社 安心典礼  -All Rights Reserved-</div>
+        </div><!-- end footerInner -->
     </footer>
 </div><!-- end container -->    
     </body>

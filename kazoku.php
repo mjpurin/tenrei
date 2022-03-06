@@ -10,7 +10,7 @@
       <h3>祭壇例（フラワー祭壇6尺）</h3>
       <p>様々なフラワー祭壇がございます。詳細はお問い合わせください。</p>
     </div>
-    <button>家族葬プランのお問い合わせはこちら</button>
+    <button onclick="location.href='#'">家族葬プランのお問い合わせはこちら</button>
 
   </div>
   <div class="info">
@@ -52,7 +52,7 @@
       <h3>祭壇例（フラワー祭壇6尺）</h3>
       <p>様々なフラワー祭壇がございます。詳細はお問い合わせください。</p>
     </div>
-    <button>一日葬プランのお問い合わせはこちら</button>
+    <button onclick="location.href='#'">一日葬プランのお問い合わせはこちら</button>
 
   </div>
   <div class="info">
@@ -94,7 +94,7 @@
       <img src="<?=$root?>images/kazoku/kazoku1.png">
       <h3>直葬プラン施行事例</h3>
     </div>
-    <button>家族葬プランのお問い合わせはこちら</button>
+    <button onclick="location.href='#'">家族葬プランのお問い合わせはこちら</button>
 
   </div>
   <div class="info">
@@ -150,7 +150,7 @@
     </figure>
       
     </div>
-    <button>一日葬プランのお問い合わせはこちら</button>
+    <button onclick="location.href='#'">一日葬プランのお問い合わせはこちら</button>
 
   </div>
   <div class="info">
