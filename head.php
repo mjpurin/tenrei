@@ -44,7 +44,7 @@ switch($fileName){
         <li><a href="#">川崎市市民葬儀</a></li>
         </ul>
       </li>
-      <li class=""><a href="hoken.php">少額短期葬儀保険</a>
+      <li class=""><a href="<?=$root?>hoken.php">少額短期葬儀保険</a>
       </li>
       <li class="has-child"><a href="#">ホール・葬儀場</a>
         <ul>
