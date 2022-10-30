@@ -1,0 +1,230 @@
+
+.container{
+	width:100%;
+	box-sizing: border-box;
+	
+
+}
+#headerTop{
+	padding:10px 12px 4px;
+	overflow: hidden;
+}
+#headerIconBox{
+	float:left;
+	width:56%;
+}
+#headerTelBox{
+	float:right;
+	width:38%;
+	padding-top:0.7%;
+
+}
+#header img,
+#main img
+{
+	width:100%;
+	height:auto;
+	display: block;
+}
+#headerMiddle{
+	background:#446822;
+	color:white;
+	padding:5px 10px;
+}
+
+#main{
+	width:84%;
+	margin:0 auto;
+}
+#mainTop{
+	margin-top:3%;
+	margin-bottom:4%;
+}
+p.mainStrings {
+	font-size:120%;
+	box-sizing: border-box;
+	border:1px solid #333;
+	padding:3%;
+	margin-top:1%;
+}
+#main ul li{
+	margin-bottom:14px;
+}
+#main ul li img{
+	padding:10px;
+	border-top: 3px solid #DDD;
+	border-left: 3px solid #DDD;
+	border-right: 3px solid #BBB;
+	border-bottom: 3px solid #BBB;
+	border-radius: 5px;
+	box-sizing: border-box;
+
+}
+.title img{
+	padding-bottom:8px;
+	border-bottom:1px solid #333;
+}
+#title1ImageBox{
+	width:80%;
+	margin:0 auto;
+	text-align: center;
+}
+#title1ImageBox h2{
+	font-size:150%;
+	margin-top:20px;
+	
+}
+#title1ImageBox h3{
+	font-size:120%;
+	margin-top:5px;
+
+}
+#title1detail{
+	width:92%;
+	margin:10px auto;
+}
+#title1detail img{
+	padding:6px 10px;
+	border:1px solid #333;
+	box-sizing: border-box;
+}
+.moreInfo{
+	width:92%;
+	margin:0 auto;
+	text-align: center;
+	font-size:120%;
+}
+#main img.icon{
+	width:60px;
+	margin:5px auto;
+}
+#tncForm{
+	width:100%;
+	border:1px solid #333;
+	margin-top:20px;
+
+}
+#tncForm th,#tncForm td{
+	display: block;
+	width:100%;
+	box-sizing: border-box;
+	padding:5px;
+}
+#tncForm th{
+ background:#f6f6f6;
+ text-align:left;
+ font-size:130%;
+ font-weight: normal;
+}
+#tncForm td{
+	border-bottom:1px solid #333;
+}
+
+#tncForm input{
+	border-radius:5px;
+	
+}
+#tncForm select{
+	border-radius:5px;
+	background:#ccc;
+}
+#tncForm input[type="text"],#tncForm input[type="email"]{
+	width:98%;
+	max-width:280px;
+	height:30px;
+	background:#cef;
+	
+}
+#tncForm input[type="submit"]{
+	display: inline-block;
+	padding:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:120%;
+
+}
+#tncForm textarea{
+	width:98%;
+	height:100px;
+	border-radius:5px;
+	background:#cef;
+}
+#tncForm .must{
+	display: inline-block;
+	font-size:12px;
+	color:white;
+	background: red;
+	padding:1px 3px;
+	margin-right:5px;
+}
+#pageTopLink{
+	text-align: right;
+	padding-right:20px;
+}
+#footer{
+	color:white;
+	background: #446822;
+	text-align: center;
+	padding:5px;
+	margin-top:15px;
+}
+.moreInfo.mt20{
+	margin-top:20px;
+}
+#formComplete,#formFailed{
+	font-size:120%;
+	position: relative;
+}
+#formComplete:before{
+	content:'Success!';
+	position: absolute;
+	top:-33px;
+	left:0;
+	display: block;
+	color:white;
+	background:#31b0d5;
+	padding:3px 5px;
+	border-radius:5px;
+	transform: rotate(-4deg);
+
+}
+#formFailed:before{
+	content:'Failed!';
+	position: absolute;
+	top:-33px;
+	left:0;
+	display: block;
+	color:white;
+	background:red;
+	padding:3px 5px;
+	border-radius:5px;
+	transform: rotate(-4deg);
+
+}
+
+#slidelist{
+	width:100%;
+	padding-top:45.7%;
+	position:relative;
+}
+#slidelist li{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	list-style-type:none;
+}
+#slidelist li:not(:first-child){
+  display:none;
+}
+
+@media screen and (min-width:550px){
+	html{
+		font-size:14px;
+	}
+	#main img.icon{
+		width:80px;
+	}
+}
+

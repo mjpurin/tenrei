@@ -2,11 +2,8 @@
 session_start();
 ?>
 <?php include('head.php');?>
-<div id="subSliderBox">
-<div id="subSlider">
-         <div><a href=""><img alt="画像1" src="images/sub-slider/PR_hall.jpg" /></a></div>
-         <div><a href=""><img alt="画像2" src="images/sub-slider/PR_hoken.jpg" /></a></div>
-</div>
+<div id="smallHeader">
+  <img src="<?=$root?>images/form_top.png">
 </div>
 <main id="contact">
   <h1>◇ お問い合わせ</h1>

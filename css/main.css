@@ -76,7 +76,7 @@ nav> ul{
   display: flex;
   justify-content: space-around;
   align-items:center;
-  font-size:14px;
+  font-size:14.5px;
   padding:0 80px;
 }
 /*2階層目以降は横並びにしない*/
@@ -91,13 +91,17 @@ nav ul li{
 
 /*ナビゲーションのリンク設定*/
 nav ul li.active> a{
-  color:#f08226;
+  color:#FFA158;
 }
 nav ul li a{
   display: block;
   text-decoration: none;
   transition:all .3s;
   position:relative;
+}
+
+a:hover{
+  color:#F08226;
 }
 
  nav >ul >li:not(:last-child) >a::after{
@@ -109,11 +113,11 @@ nav ul li a{
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    right: -13px;
+    right: -9px;
     z-index:2;
 } 
 nav ul li a:hover{
-  color:#f08226; 
+  color:#FFA158; 
 }
 
 /*下の階層を持っているulの指定*/
@@ -129,6 +133,7 @@ nav li.has-child ul{
     /*形状を指定*/
   font-size:13px;
   text-align:center;
+  font-weight:bold;
     /*はじめは非表示*/
   visibility: hidden;
   opacity: 0;
@@ -137,13 +142,7 @@ nav li.has-child ul{
 }
 
 /*hoverしたら表示*/
-nav li.has-child:hover > ul
-/*
-,nav li.has-child ul li:hover > ul
-,nav li.has-child:active > ul,
-nav li.has-child ul li:active > ul
-*/
-{
+nav li.has-child:hover > ul{
   visibility: visible;
   opacity: 1;
 }
@@ -239,6 +238,12 @@ nav li.has-child ul li a:active{
   background:#ea524c;
 }
 
+#gridBox li a:hover{
+  cursor:pointer;
+  color:#FFFFFF;
+}
+
+
 #topInfo{
   width:700px;
   margin:82px auto;
@@ -257,7 +262,7 @@ nav li.has-child ul li a:active{
   padding:49px 84px 35px;
 }
 #pBox p{
-  font-size:14px;
+  font-size:15px;
   line-height:1.7;
 }
 #pBox p + p{
@@ -265,7 +270,7 @@ nav li.has-child ul li a:active{
 }
 #topInfo > p{
   padding:25px 84px 25px; 
-  font-size:14px;
+  font-size:15px;
   line-height:1.7;
   background:#395a5c;
   color:white;
@@ -320,7 +325,7 @@ footer{
   transition: all .2s;
 }
 #footerMenu ul li:hover{
-  color:#ffa158;
+  /*color:#ffa158;*/
 }
 #footerMenu ul li span{
   font-size:11px;
@@ -529,24 +534,25 @@ footer #copyRight{
 #priceMainTable >tbody>tr >td
 {
   border:1px solid #000; 
-  font-size:12px;
+  font-size:13px;
+  line-height:1.2;
 }
 
 #priceMainTable th{
-  padding:3px 18px;
+  padding:3px 15px;
   font-size:14px;
   font-weight:bold;
   letter-spacing: 20px;
 }
 #priceMainTable td{
-  padding:3px 18px;
+  padding:3px 14px;
 }
 #priceMainTable td:first-child{
   text-align-last:justify;
 }
 #priceMainTable table td{
   padding:3px 0;
-  font-size:11px;
+  font-size:11.5px;
 }
 #priceMainTable table td:first-child{
   text-align-last:auto; 
@@ -790,7 +796,7 @@ section.part.even{
   color:#dd5a18;
   line-height:120px;
   text-align:right;
-  padding-right:95px;
+  padding-right:60px;
   margin-bottom:64px;
 }
 #kasoba h1 a{
@@ -804,7 +810,7 @@ section.part.even{
   width:800px;
   height:34px;
   margin:50px auto 30px;
-  background:#209865;
+  background:#005F51;
   font-size:20px;
   color:white;
   line-height:34px;
@@ -1152,11 +1158,10 @@ section.part.even{
   font-size:15px;
 }
 
-
 /****hoken.php****/
 #hokenWrapper{
   /*1024幅に背景色は下の1行コメントアウト*/
-  background-color:#fffde8;
+  /*background-color:#fffde8;*/
 }
 #hokenContainer{
   background-color:#fffde8;
@@ -1164,7 +1169,7 @@ section.part.even{
   margin:0 auto; 
   padding-top:53px;
   padding-bottom:50px;
-  margin-bottom:-146px;
+  margin-bottom:-150px;
 }
 section#top{
   position:relative;

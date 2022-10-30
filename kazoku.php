@@ -10,7 +10,7 @@
       <h3>祭壇例（フラワー祭壇6尺）</h3>
       <p>様々なフラワー祭壇がございます。詳細はお問い合わせください。</p>
     </div>
-    <button onclick="location.href='#'">家族葬プランのお問い合わせはこちら</button>
+    <button onclick="location.href='contact.php'">家族葬プランのお問い合わせはこちら</button>
 
   </div>
   <div class="info">
@@ -42,9 +42,9 @@
     ※葬祭場利用費・・・弊社フューネラルホールは1日利用で110,000円（税込）<br>
     <span>その他の葬祭場利用は実費料金となります。</span>
     </p>
-
   </div>
 </section>
+<br/>
 <section class="part blue even">
   <div class="imgContainer">
     <div class="imgBox">
@@ -52,7 +52,7 @@
       <h3>祭壇例（フラワー祭壇6尺）</h3>
       <p>様々なフラワー祭壇がございます。詳細はお問い合わせください。</p>
     </div>
-    <button onclick="location.href='#'">一日葬プランのお問い合わせはこちら</button>
+    <button onclick="location.href='contact.php'">一日葬プランのお問い合わせはこちら</button>
 
   </div>
   <div class="info">
@@ -79,22 +79,22 @@
       </ul>
     </div>
     <p class="caution">
-    ※緑枠の内容が家族葬プランに含まれております。<br>
+    ※青枠の内容が家族葬プランに含まれております。<br>
     ※収骨容器・・・白瀬戸 7寸(横浜市、川崎市のみ)他の地域は実費料金です。<br>
     ※火葬費用・・・実費料金となります。<br>
     ※葬祭場利用費・・・弊社フューネラルホールは1日利用で110,000円（税込）<br>
     <span>その他の葬祭場利用は実費料金となります。</span>
     </p>
-
   </div>
 </section>
+<br/>
 <section class="part brown odd">
   <div class="imgContainer">
     <div class="imgBox">
-      <img src="<?=$root?>images/kazoku/kazoku1.png">
+      <img src="<?=$root?>images/kazoku/kazoku3x.png">
       <h3>直葬プラン施行事例</h3>
     </div>
-    <button onclick="location.href='#'">家族葬プランのお問い合わせはこちら</button>
+    <button onclick="location.href='contact.php'">直葬プランのお問い合わせはこちら</button>
 
   </div>
   <div class="info">
@@ -122,13 +122,14 @@
       </ul>
     </div>
     <p class="caution">
-    ※緑枠の内容が家族葬プランに含まれております。<br>
+    ※茶枠の内容が家族葬プランに含まれております。<br>
     ※収骨容器・・・白瀬戸 7寸(横浜市、川崎市のみ)他の地域は実費料金です。<br>
     ※火葬費用、火葬場休憩室（食事等）・・・実費料金となります。<br>
     </p>
 
   </div>
 </section>
+<br/>
 <section class="part pink even">
   <div class="imgContainer">
     <div class="imgBox figureBox ">
@@ -150,13 +151,15 @@
     </figure>
       
     </div>
-    <button onclick="location.href='#'">一日葬プランのお問い合わせはこちら</button>
+    <button onclick="location.href='contact.php'">供花のご要望・お問い合わせはこちら</button>
 
   </div>
   <div class="info">
     <h1>供 花</h1>
     <p class="hasMT">故人さまが生前お好きだったお色やイメージに合せてお選びください。また仏教だけでなくキリスト教や神道式のご葬儀にも対応可能な供花を手配いたします。</p>
-    <p class="hasMT">別の価格帯（16,000円）の供花もございます。 詳しくはお問い合わせください。</p>
+    <p class="hasMT">別の価格帯（16,000円）の供花もございます。 詳しくはお問い合わせください。<br/>
+    <br/>
+    ※四季により内容の変更が有ります。</p>
     <h4>供花と花環の違いは？</h4>
     <p>葬儀では、供花の他に花環（はなわ）が飾られることがあります。花環とは、円環状の生花や造花にスタンドがついたものです。花環も供花と同様に故人さまを悼む気持ちを込めて贈るものです。</p>
 

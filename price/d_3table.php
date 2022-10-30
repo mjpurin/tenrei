@@ -11,7 +11,7 @@
         <table>
         <tbody>
         <tr valign="bottom">
-          <td height="151" style="padding-top:16px;"><div align="center"><img src="img/zoom/d3_l1_2020.jpg" width="400" height="238"></div>
+          <td height="151" style="padding-top:16px;"><div align="center"><img src="img/d3_01_2020.jpg" width="400" height="238"></div>
           </td>
         </tr>
         <!--写真-->
@@ -138,7 +138,7 @@
             </tr>
 
             <tr>
-              <td style="border:1px solid #000;text-align:center;font-size:18px;padding:5px;font-weight:bold;">家族葬(Ｄ－３)</td>
+              <td style="border:1px solid #000;text-align:center;font-size:18px;padding:5px;font-weight:bold;">Ｄ－３ (家族葬)</td>
             </tr>
               </tbody>
             </table>
@@ -156,7 +156,7 @@
               <div align="center"></div></td>
           </tr>
           <tr>
-            <td colspan="4" style="padding:20px 0 5px;font-size:16px;">《内　容》<span style="font-size:12px;">（令和2年12月現在）</td>
+            <td colspan="4" style="padding:20px 0 5px;font-size:16px;">《内　容》　（令和2年12月現在）</td>
             <td width="1" height="12">&nbsp;</td>
           </tr>
           <tr>
@@ -249,7 +249,7 @@
                   <td>実費料金</td>
                 </tr>
                 <tr>
-                  <td>式場看板 / 提灯</span></font></td>
+                  <td>式場看板 / 提灯</td>
                   <td>実費料金</td>
                 </tr>
                 <tr>
@@ -295,7 +295,7 @@
 
         <p id="priceBottom">
         葬儀代金はセット価格にその他費用と実費費用を合計して宗教者へのお礼代金概ね30万をプラスする。<br>
-        429,000＋352,000＋90,750＋300,000＝1,171,750です。（税込）<br>
+        429,000＋352,000＋90,750＋300,000＝1,171,750円です。（税込）<br>
         尚　湯灌メイク、当日返し、初七日お返し、盛り物、宿泊、貸し衣裳、朝食等は追加の費用になります。
         </p>
 

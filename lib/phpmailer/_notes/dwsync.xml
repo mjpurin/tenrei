@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="COMMITMENT" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="composer.json" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="connectSMTP.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443422620000000" remote="132444523200000000" Dst="0" />
-<file name="get_oauth_token.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="LICENSE" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="mjconnect.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="README.md" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="SECURITY.md" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="VERSION" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
+<file name="COMMITMENT" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551969154707" remote="132931971000000000" Dst="0" />
+<file name="composer.json" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551970453231" remote="132931971000000000" Dst="0" />
+<file name="connectSMTP.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551970809724" remote="132931971000000000" Dst="0" />
+<file name="get_oauth_token.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551971090832" remote="132931971000000000" Dst="0" />
+<file name="LICENSE" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551969368133" remote="132931971000000000" Dst="0" />
+<file name="mjconnect.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551971364662" remote="132931971000000000" Dst="0" />
+<file name="README.md" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551969668737" remote="132931971000000000" Dst="0" />
+<file name="SECURITY.md" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551969971404" remote="132931971000000000" Dst="0" />
+<file name="VERSION" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551970186957" remote="132931971000000000" Dst="0" />
+<file name="connectSMTP.php" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551970809724" remote="132890553600000000" Dst="0" />
+<file name="COMMITMENT" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551969154707" remote="132890553600000000" Dst="0" />
+<file name="composer.json" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551970453231" remote="132890553600000000" Dst="0" />
+<file name="get_oauth_token.php" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551971090832" remote="132890553600000000" Dst="0" />
+<file name="LICENSE" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551969368133" remote="132890553600000000" Dst="0" />
+<file name="mjconnect.php" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551971364662" remote="132890553600000000" Dst="0" />
+<file name="README.md" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551969668737" remote="132890553600000000" Dst="0" />
+<file name="SECURITY.md" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551969971404" remote="132890553600000000" Dst="0" />
+<file name="VERSION" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551970186957" remote="132890553600000000" Dst="0" />
 </dwsync>

@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="Exception.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="SMTP.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="PHPMailer.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="OAuth.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
-<file name="POP3.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132443420460000000" remote="132444523200000000" Dst="0" />
+<file name="Exception.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551972678188" remote="132931971000000000" Dst="0" />
+<file name="SMTP.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551973942892" remote="132931971000000000" Dst="0" />
+<file name="PHPMailer.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551973330677" remote="132931971000000000" Dst="0" />
+<file name="OAuth.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551972959020" remote="132931971000000000" Dst="0" />
+<file name="POP3.php" server="ansin-tenrei.sakura.ne.jp//home/ansin-tenrei/www/" local="132890551973638090" remote="132931971000000000" Dst="0" />
+<file name="Exception.php" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551972678188" remote="132890553600000000" Dst="0" />
+<file name="SMTP.php" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551973942892" remote="132890553600000000" Dst="0" />
+<file name="PHPMailer.php" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551973330677" remote="132890553600000000" Dst="0" />
+<file name="OAuth.php" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551972959020" remote="132890553600000000" Dst="0" />
+<file name="POP3.php" server="k2designstudio.sakura.ne.jp//home/k2designstudio/www/" local="132890551973638090" remote="132890553600000000" Dst="0" />
 </dwsync>
