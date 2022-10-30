@@ -1,14 +1,15 @@
 <?php include('head.php');?>
-    
-    
     <ul id="slidelist">
-        <li><img src="images/top-slider/slide1.jpg"></li>
-        <li><img src="images/top-slider/slide2.jpg"></li>
-        <li><img src="images/top-slider/slide3.jpg"></li>
-        <li><img src="images/top-slider/slide4.jpg"></li>
+        <li><img src="images/top-slider/slide1.jpg" alt="宮前区にある安心典礼は"></li>
+        <li><img src="images/top-slider/slide2.jpg" alt="葬儀という人生最後のセレモニーを"></li>
+        <li><img src="images/top-slider/slide3.jpg" alt="安心して立命できますよう"></li>
+        <li><img src="images/top-slider/slide4.jpg" alt="全力でサポート致します"></li>
     </ul>
     
     <main>
+        <h1 id="topH1">◇ 川崎 宮前区 葬儀なら安心典礼</h1>
+        <p>川崎、宮前区での葬儀のことなら、どんなことでもお気軽にお問い合わせください</p>
+    
     
             <ul id="gridBox">
                 <li><a href="kazoku.php">家族葬・一日葬・直葬</a></li>

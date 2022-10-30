@@ -168,7 +168,6 @@ nav li.has-child ul li a:active{
   color:#f08226;
 }
 
-
 #slidelist{
   position:relative;
   width:1024px;
@@ -189,6 +188,22 @@ nav li.has-child ul li a:active{
 #slidelist li:not(:first-child){
   display:none;
 }
+#topH1{
+  width: 1024px;
+  height: 34px;
+  background: #005f51;
+  margin: 50px auto 20px;
+  color: white;
+  padding-left: 20px;
+  font-size: 20px;
+  line-height: 34px;
+}
+#topH1 + p{
+  width:820px;
+  margin:10px auto;
+  text-align:center;
+  font-size:1.1rem;
+}
 
 #gridBox{
   display: grid;
@@ -198,7 +213,7 @@ nav li.has-child ul li a:active{
   grid-column-gap: 72px;
   justify-content: center;
   width: 90%;
-  margin: 69px auto;
+  margin: 40px auto;
 }
 #gridBox li{
   font-size:24px;

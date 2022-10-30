@@ -106,9 +106,10 @@ if(isset($_POST['send']) && !empty($_SESSION['email']) ){
 	<head>
 		<meta charset="utf-8">
 		 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		 <link rel="canonical" href="https://ansin-tenrei.com/" />
 		<title>安心典礼</title>
 		<!--keywords 書いておくとその検索語でヒットしやすくなる-->
-		<meta name="keywords" content="安心典礼,葬儀,安心,川崎市,宮前区,無料相談">
+		<meta name="keywords" content="宮前区,葬儀,川崎市,無料相談,安心,典礼">
 		<!--descpription 検索でヒットした時に紹介文として表示される-->
         	<meta name="description" content="安心典礼は川崎市宮前区にある葬儀社です。人生最後のセレモニーを真心を込めて全力でサポートいたします。">
         	<link rel="shortcut icon" href="../favicon.ico" >
@@ -132,10 +133,10 @@ if(isset($_POST['send']) && !empty($_SESSION['email']) ){
 	        			私達は、人生最後のセレモニーを相手の立場になって行い、すべての人を安心立命させます。
 	        			</div>
 	        			<ul id="slidelist">
-									<li><img src="images/slider/slide1.jpg"></li>
-									<li><img src="images/slider/slide2.jpg"></li>
-									<li><img src="images/slider/slide3.jpg"></li>
-									<li><img src="images/slider/slide4.jpg"></li>
+									<li><img src="images/slider/slide1.jpg" alt="宮前区にある安心典礼は"></li>
+									<li><img src="images/slider/slide2.jpg" alt="葬儀という人生最後のセレモニーを"></li>
+									<li><img src="images/slider/slide3.jpg" alt="安心して立命できますよう"></li>
+									<li><img src="images/slider/slide4.jpg" alt="全力でサポート致します"></li>
 								</ul>
 
 	        			<div id="headerBottom">
@@ -144,7 +145,7 @@ if(isset($_POST['send']) && !empty($_SESSION['email']) ){
 	        		</div><!--end header -->
 	        		<div id="main">
 		        		<h1 id="mainTop">
-		        			<img src="images/mainTop.png" alt="川崎市・横浜市の葬儀なら実績豊富な安心典礼におまかせください。">
+		        			<img src="images/mainTop.png" alt="川崎 宮前区の葬儀なら実績豊富な安心典礼におまかせください。">
 		        		</h1>
 		        		<p class="mainStrings">
                         安心典礼 今月（10月）のお話<br/>
