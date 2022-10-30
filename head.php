@@ -46,8 +46,9 @@ switch($fileName){
 <html>
     <head>
         <meta charset="utf-8">
-        <title>川崎市の葬儀なら 安心典礼</title>
-        <meta name="keywords" content="安心典礼,葬儀,安心,川崎市,宮前区,無料相談">
+        <title>宮前区の葬儀なら 安心典礼</title>
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="https://ansin-tenrei.com/sp/<?= $fileName?>" />
+        <meta name="keywords" content="宮前区,葬儀,安心典礼,安心,川崎市,無料相談">
 		<!--descpription 検索でヒットした時に紹介文として表示される-->
         	<meta name="description" content="安心典礼は川崎市宮前区にある葬儀社です。人生最後のセレモニーを真心を込めて全力でサポートいたします。">
         <link rel="stylesheet" href="<?=$root?>css/reset.css">
