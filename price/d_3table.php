@@ -138,7 +138,7 @@
             </tr>
 
             <tr>
-              <td style="border:1px solid #000;text-align:center;font-size:18px;padding:5px;font-weight:bold;">Ｄ－３ (家族葬)</td>
+              <td style="border:1px solid #000;text-align:center;font-size:18px;padding:5px;font-weight:bold;">Ｄ－３ (きずな葬)</td>
             </tr>
               </tbody>
             </table>

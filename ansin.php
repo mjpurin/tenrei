@@ -1,6 +1,6 @@
 <?php include('head.php');?>
 <div id="smallHeader">
-  <img src="<?=$root?>images/ansinnokai_top.png">
+  <img src="images/ansinnokai_top.png">
 </div>
 <main id="price">
   <h1>◇ 『安心の会』ってなに？</h1>

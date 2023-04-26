@@ -16,9 +16,9 @@ session_start();
   <a href="c_3.php"><span>C-3</span></a>/
   <a href="d_1.php"><span>D-1</span></a>/
   <a href="d_2.php"><span>D-2</span></a>/
-  <a href="d_3.php"><span>D-3（家族葬）</span></a>/
-  <a href="d_4.php"><span>一日葬</span></a>/
-  <a href="jikiso.php"><span>直葬</span></a>/
+  <a href="d_3.php"><span>D-3（きずな葬）</span></a>/
+  <a href="d_4.php"><span>つばさ葬</span></a>/
+  <a href="jikiso.php"><span>火葬</span></a>/
   <a href="list01.php"><span class="<?=$fileName==='list01.php' ? 'active':''?>">価格一覧</span></a>
 </p>
 <br/>
@@ -27,21 +27,21 @@ session_start();
 <table width="700" border="0" cellpadding="3" cellspacing="3">
   <tr bgcolor="#EEEEEE">
     <td width="30">&nbsp;</td>
-    <td width="140"><a href="jikiso.php"><span>＞ 直　葬</span></a></td>
+    <td width="140"><a href="jikiso.php"><span>＞ 火　葬</span></a></td>
     <td width="120" align="right">275,000円</td>
     <td width="70">&nbsp;</td>
     <td width="340" align="left">祭壇無し 火葬のみ</td>
   </tr>
   <tr>
     <td width="30">&nbsp;</td>
-    <td width="140"><a href="d_4.php"><span>＞ 一日葬</span></a></td>
+    <td width="140"><a href="d_4.php"><span>＞ つばさ葬</span></a></td>
     <td width="120" align="right">363,000円</td>
     <td width="70">&nbsp;</td>
     <td width="340" align="left">フラワー6尺祭壇 (告別式のみ)</td>
   </tr>
   <tr bgcolor="#EEEEEE">
     <td width="30">&nbsp;</td>
-    <td width="140" nowrap><a href="d_3.php"><span>＞ Ⅾ－３（家族葬）</span></a></td>
+    <td width="140" nowrap><a href="d_3.php"><span>＞ Ⅾ－３（きずな葬）</span></a></td>
     <td width="120" align="right">429,000円</td>
     <td width="70">&nbsp;</td>
     <td width="340" align="left">白木6尺もしくはフラワー6尺祭壇</td>

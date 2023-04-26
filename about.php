@@ -1,6 +1,6 @@
 <?php include('head.php');?>
 <div id="smallHeader">
-  <img src="<?=$root?>images/about_top.png">
+  <img src="images/about_top.png">
 </div>
 <main id="price">
   <h1>◇ 会社概要（経営理念・プライバシーポリシー）</h1>
@@ -32,7 +32,7 @@
                 <td width="614" align="left" valign="top">
                   <table width="614">
                     <tr>
-                      <td width="180" valign="top"><img src="images/about/HONSHA_new.jpg" width="180" height="229"/></td>
+                      <td width="180" valign="top"><img src="images/about/headoffice_new.jpg" width="230" height="230"/></td>
                       <td width="25">&nbsp;</td>
                       <td width="409" valign="top" style="font-size:15px;">◇JR南武線「武蔵溝ノ口」駅<br/>
                       ◇東急田園都市線「溝の口」駅より<br/>
@@ -53,7 +53,7 @@
               </tr>
               <tr>
                 <td width="100" align="left" style="font-size:16px;">◇マップ</td>
-                <td width="614" align="left"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3244.1331058392702!2d139.5631073511297!3d35.5997830801164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f7296c1b7021%3A0x18853792d7a263b6!2z44CSMjE2LTAwMjYg56We5aWI5bed55yM5bed5bSO5biC5a6u5YmN5Yy65Yid5bGx77yR5LiB55uu77yS77yQ4oiS77yR77yT!5e0!3m2!1sja!2sjp!4v1644666475292!5m2!1sja!2sjp" width="580" height="380" style="border:0;" allowfullscreen="" loading="lazy"></iframe></td>
+                <td width="614" align="left"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3244.133338442864!2d139.56308395095243!3d35.59977734194493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f7296c068725%3A0x1c02e47f3ab09245!2z5qCq5byP5Lya56S-5a6J5b-D5YW456S8!5e0!3m2!1sja!2sjp!4v1680671116436!5m2!1sja!2sjp" width="580" height="380" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
               </tr>
               <tr>
                 <td width="100" align="left" style="font-size:16px;">◇支店</td>

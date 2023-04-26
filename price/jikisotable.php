@@ -128,7 +128,7 @@
             </tr>
 
             <tr>
-              <td style="border:1px solid #000;text-align:center;font-size:18px;padding:5px;font-weight:bold;">直葬(火葬のみ)</td>
+              <td style="border:1px solid #000;text-align:center;font-size:18px;padding:5px;font-weight:bold;">火葬</td>
             </tr>
               </tbody>
             </table>

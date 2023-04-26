@@ -70,14 +70,14 @@ switch($fileName){
         <div class="container">
             <header>
                 <img id="headerLogo" src="<?=$root?>images/ansin-logo.svg" alt="株式会社 安心典礼">
-                <p>年中無休・24時間対応　TEL:044-975-3853 (代表)　事前相談、無料でお受けいたします</p>
+                <p>年中無休・24時間対応　TEL:044-975-3853 (代表)　相談無料　LINE窓口<strong>⇒</strong><a href="https://lin.ee/xQ2akmQ" target="new"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a></p>
             </header>
             <nav>
             <ul>
       <li class="<?=$fileName ==='index.php' ? 'active':''?>"><a href="<?=$root?>index.php">Home</a></li>
       <li class="has-child <?= in_array($fileName,['kazoku.php','list01.php','list01.php#normal','list02.php','citizen.php','a_1.php','a_2.php','a_3.php','b_1.php','b_2.php','b_3.php','c_1.php','c_2.php','c_3.php','d_1.php','d_2.php','d_3.php','d_4.php','jikiso.php','s_1.php','s_2.php','s_3.php'])? 'active':''?>"><a href="#">価格別葬儀祭壇</a>
         <ul>
-        <li><a href="<?=$root?>kazoku.php">家族葬/一日葬/直葬</a></li>
+        <li><a href="<?=$root?>kazoku.php">家族葬/きずな葬/つばさ葬</a></li>
         <li><a href="<?=$root?>price/list01.php">やや費用を抑えたい</a></li>
         <li><a href="<?=$root?>price/list01.php#normal">一般的な葬儀価格帯</a></li>
         <li><a href="<?=$root?>price/list02.php">立派にしてあげたい</a></li>
@@ -86,9 +86,10 @@ switch($fileName){
       </li>
       <li class="<?=$fileName ==='hoken.php' ? 'active':''?>"><a href="<?=$root?>hoken.php">少額短期葬儀保険</a>
       </li>
-      <li class="has-child <?= in_array($fileName,['hall.php','sousaijyo.php','kasoba.php'])? 'active':''?>"><a href="#">ホール・火葬場</a>
+      <li class="has-child <?= in_array($fileName,['hall.php','windy.php','sousaijyo.php','kasoba.php'])? 'active':''?>"><a href="#">ホール・火葬場</a>
         <ul>
         <li><a href="<?=$root?>hall.php">フューネラルホール（自社）</a></li>
+        <li><a href="<?=$root?>windy.php">ウインディチャペル</a></li>
         <li><a href="<?=$root?>sousaijyo.php">葬祭場・式場（公営・民営）</a></li>
         <li><a href="<?=$root?>kasoba.php">火葬場一覧（公営・民営）</a></li>
         </ul>

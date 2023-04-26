@@ -16,9 +16,9 @@ session_start();
   <a href="c_3.php"><span>C-3</span></a>/
   <a href="d_1.php"><span>D-1</span></a>/
   <a href="d_2.php"><span>D-2</span></a>/
-  <a href="d_3.php"><span class="<?=$fileName==='d_3.php' ? 'active':''?>">D-3（家族葬）</span></a>/
-  <a href="d_4.php"><span>一日葬</span></a>/
-  <a href="jikiso.php"><span>直葬</span></a>/
+  <a href="d_3.php"><span class="<?=$fileName==='d_3.php' ? 'active':''?>">D-3（きずな葬）</span></a>/
+  <a href="d_4.php"><span>つばさ葬</span></a>/
+  <a href="jikiso.php"><span>火葬</span></a>/
   <a href="list01.php"><span>価格一覧</span></a>
   </p>
   <h2>基本葬儀セット内容</h2>

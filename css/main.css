@@ -213,7 +213,7 @@ nav li.has-child ul li a:active{
   grid-column-gap: 72px;
   justify-content: center;
   width: 90%;
-  margin: 40px auto;
+  margin: 69px auto;
 }
 #gridBox li{
   font-size:24px;
@@ -636,6 +636,9 @@ footer #copyRight{
 .part.pink button{
   background-color:#f099bf;
 }
+.part.orange button{
+  background-color:#ea954a;
+}
 .part button::after{
   content: "";
   position: absolute;
@@ -676,6 +679,10 @@ footer #copyRight{
 .part.pink h1{
   color:#f099bf;
 }
+.part.orange h1{
+  color:#ea954a;
+}
+
 .part h1 span{
   font-size:19px;
   color:black;
@@ -721,6 +728,9 @@ footer #copyRight{
 .part.pink .boxes ul:first-child li{
   background:#f099bf;
 }
+.part.orange .boxes ul:first-child li{
+  background:#ea954a;
+}
 .boxes .partGrid{
   margin-left:12px;
   display:grid;
@@ -756,6 +766,9 @@ footer #copyRight{
 }
 .pink .partGrid li{
   background:#f099bf;
+}
+.orange .partGrid li{
+  background:#ea954a;
 }
 .partGrid li.grey{
   background:#b5b5b5 !important;
@@ -934,6 +947,12 @@ section.part.even{
   background:#f3f1e3;
   border:1px solid #231815;
 }
+#hallBanner2{
+  margin-top:57px;
+  height:370px;
+  background:#f3f1e3;
+  border:1px solid #231815;
+}
 #bannerImgs{
   margin:23px 19px 18px;
   display: flex;
@@ -947,7 +966,20 @@ section.part.even{
   text-align: center;
   background:#6db664;
 }
+#hallBanner2 p{
+  height:37px;
+  font-size:23px;
+  color:white;
+  line-height:37px;
+  text-align: center;
+  background:#7ab855;
+}
 #hallBanner ul{
+  display: flex;
+  justify-content: space-between;
+  margin:18px 26px 0;
+}
+#hallBanner2 ul{
   display: flex;
   justify-content: space-between;
   margin:18px 26px 0;
@@ -962,10 +994,20 @@ section.part.even{
   background-color: #00bcbc;
   font-size:24px;
   line-height:1.4;
-  padding-top:7px;
-  
+  padding-top:7px; 
 }
-
+#hallBanner2 ul li{
+  width:110.5px;
+  height:80.5px;
+  border:1px solid white;
+  text-align: center;
+  color:white;
+  box-shadow:0 0 0 3px #f1a41d;
+  background-color: #f1a41d;
+  font-size:24px;
+  line-height:1.4;
+  padding-top:7px; 
+}
 #rokkaku{
   width:728px;
   height:407px;

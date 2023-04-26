@@ -31,7 +31,6 @@
         <li>川崎市宮前区菅生4-2-9</li>
         <li>Tel : 044-977-3882</li>
         <li>市営地下鉄「あざみ野」駅よりバス</li>
-        <li>公式サイトは<a href="http://www.ichou-hall.jp/" target="new">こちら</a></li>
       </ul>
     </div>
     <div class="secCol">

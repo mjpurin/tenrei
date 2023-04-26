@@ -6,13 +6,14 @@
         <div id="footerMenu">
             <ul>
                 <li><a href="<?=$root?>index.php">ホーム</a></li>
-                <li><a href="<?=$root?>kazoku.php">家族葬/一日葬/直葬</a></li>
+                <li><a href="<?=$root?>kazoku.php">家族葬など</a></li>
                 <li><a href="<?=$root?>citizen.php">川崎市市民葬とは？</a></li>
                 <li><a href="<?=$root?>price/list01.php">価格別葬儀祭壇</a></li>
                 <li><a href="<?=$root?>index.php#topInfo">今月のお話</a></li>
             </ul>
             <ul>
                 <li><a href="<?=$root?>hall.php">フューネラルホール（自社）</a></li>
+                <li><a href="<?=$root?>windy.php">ウィンディチャペル</a></li>
                 <li><a href="<?=$root?>sousaijyo.php">葬祭場・式場（公営・民営）</a></li>
                 <li><a href="<?=$root?>kasoba.php">火葬場一覧（公営・民営）</a></li>
                 <li><a href="<?=$root?>reien.php">霊園・石材店ご案内</a></li>

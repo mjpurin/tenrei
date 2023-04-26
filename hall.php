@@ -1,6 +1,6 @@
 <?php include('head.php');?>
 <main id="hall">
-<h1><img src="<?=$root?>images/hall/h1.jpg" alt="自社葬祭場フューネラルホールのご案内"></h1>
+<h1><img src="images/hall/h1.jpg" alt="自社葬祭場フューネラルホールのご案内"></h1>
 <h2>人生最後のセレモニーを心を込めてサポートいたします</h2>
 <p class="h2P">
 2020年6月にリニューアルオープンした弊社1Fのフューネラルホールは宗教や宗派を問わずにご利用いただけます。ホールの収容可能人数は約30名で、近年需要が多い家族葬・一日葬・直葬等シンプルでアットホームなご葬儀に最適なホールです。心を込めてお見送りのお手伝いをさせていただきます。<br/>
@@ -11,12 +11,12 @@
 </p>
 <div id="hallWrapper">
   <h3>ホールの詳細</h3>
-  <img src="<?=$root?>images/hall/hall.jpg">
+  <img src="images/hall/hall.jpg" width="800" height="450">
   <div id="hallBanner">
     <div id="bannerImgs">
-      <img src="<?=$root?>images/hall/banner1.png">
-      <img src="<?=$root?>images/hall/banner2.png">
-      <img src="<?=$root?>images/hall/banner3.png">
+      <img src="images/hall/banner1.png">
+      <img src="images/hall/banner2.png">
+      <img src="images/hall/banner3.png">
     </div>
     <p>フラワー/白木祭壇12尺まで設置可能・搬出入しやすい開口の大きさ</p>
     <ul>
@@ -27,7 +27,7 @@
       <li>偲ぶ映像<br>モニター</li>
       <li>コロナ<br>対策実施</li>
     </ul>
-  </div>
+</div>
   <div id="rokkaku">
     <div id="ozashiki">
       <h4>お座敷のご利用</h4>
@@ -78,24 +78,38 @@
     
   </div>
   <div id="priceButtons">
-  <button onclick="location.href='contact.php'">フューネラルホールに関するお問い合わせこちら</button>
-  <button onclick="location.href='kazoku.php'">家族葬・一日葬・直葬のプラン例と料金はこちら</button>
+  <button onclick="location.href='contact.php'">フューネラルホールに関するお問い合わせ</button>
+  <button onclick="location.href='kazoku.php'">家族葬・きずな葬・つばさ葬のプラン例と料金</button>
   </div>
   <br/>
   <br/>
   <div id="map">
   <h3>アクセス</h3>
     <div id="mapBox">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3244.1331058392702!2d139.5631073511297!3d35.5997830801164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f7296c1b7021%3A0x18853792d7a263b6!2z44CSMjE2LTAwMjYg56We5aWI5bed55yM5bed5bSO5biC5a6u5YmN5Yy65Yid5bGx77yR5LiB55uu77yS77yQ4oiS77yR77yT!5e0!3m2!1sja!2sjp!4v1644666475292!5m2!1sja!2sjp" width="800" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3244.1335152547467!2d139.56308395112066!3d35.599772980116235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f7296c068725%3A0x1c02e47f3ab09245!2z5qCq5byP5Lya56S-5a6J5b-D5YW456S8!5e0!3m2!1sja!2sjp!4v1677652958027!5m2!1sja!2sjp" width="800" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
+    <br/>
+    <table width="800" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="350"><img src="images/hall/sign_01.jpg" width="350" height="300"></td>
+    <td width="5">　</td>
+    <td width="400" valign="top">
     <p>〒216-0026　川崎市宮前区初山1-20-13　TEL:044-975-3853<br/>
     <br/>
-    ◇JR南武線「武蔵溝ノ口」駅、または東急田園都市線「溝の口」駅より<br/>
-    　市バス　菅生車庫行き／鷲ヶ峰営業所行き「初山」バス停下車<br/>
+    ◇JR南武線「武蔵溝ノ口」駅<br/>
+    　東急田園都市線「溝の口」駅より<br/>
+    　市バス　菅生車庫行き／鷲ヶ峰営業所行き<br/>
+    　「初山」バス停下車<br/>
     <br/>
     ◇JR南武線、小田急線「登戸」駅より<br/>
-    　市バス　菅生車庫行き／鷲ヶ峰営業所行き／宮前区役所行き「初山」バス停下車
-    </p>
+    　市バス　菅生車庫行き<br/>
+    　鷲ヶ峰営業所行き／宮前区役所行き<br/>
+    　「初山」バス停下車
+    </p></td>
+  </tr>
+</table>
+<br/>
+    
   </div>
   <div id="nearKasoba">
     <h3>近隣の公営火葬場料金</h3>

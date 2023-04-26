@@ -106,7 +106,7 @@ if(isset($_POST['send']) && !empty($_SESSION['email']) ){
 	<head>
 		<meta charset="utf-8">
 		 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-		 <link rel="canonical" href="https://ansin-tenrei.com/" />
+         <link rel="canonical" href="https://ansin-tenrei.com/" />
 		<title>安心典礼</title>
 		<!--keywords 書いておくとその検索語でヒットしやすくなる-->
 		<meta name="keywords" content="宮前区,葬儀,川崎市,無料相談,安心,典礼">
@@ -147,24 +147,45 @@ if(isset($_POST['send']) && !empty($_SESSION['email']) ){
 		        		<h1 id="mainTop">
 		        			<img src="images/mainTop.png" alt="川崎 宮前区の葬儀なら実績豊富な安心典礼におまかせください。">
 		        		</h1>
-		        		<p class="mainStrings">
-                        安心典礼 今月（10月）のお話<br/>
                         <br/>
-                        ～32周年～<br/>
-2020年10月に創業30周年を迎えてからもう2年が経ちます。<br/>
-<br/>
-この2年以上、世の中はコロナで明け暮れた日々でした。そのように大変な中、本当に多くの皆様に支えていただきましたこと、改めまして厚く御礼申し上げます。<br/>
-<br/>
-先日の安倍元首相の国葬に関しては賛否ある中、大きな混乱や騒動は起きず無事に執り行われ、コロナ禍にも関わらず多くの人々が献花に訪れたようです。<br/>
-<br/>
-今後どのような世の中になっていくか、物価上昇や気候変動による食糧難などが囁かれておりますが、世界情勢も含め様々な事柄に注視していく必要があるのではないでしょうか。<br/>
-<br/>
-弊社安心典礼と致しましても、この世情において如何にして地域の皆様のお役に立てるか、新しい分野も含め日々考える毎日です。
+                        <p><strong><font size="+1">～LINEでお問い合わせが可能です～</font></strong><br/>
+                        <br/>
+                        <strong>以下の手順でLINEの友だち追加をしてください</strong>
 <br/>
 <br/>
-2年前にリニューアルいたしました弊社フューネラルホールは、収容人数は約30名のコンパクトスペースで、家族葬・1日葬・直葬などシンプルな葬儀に最適なホールとなっております。音響にもこだわった設計で厳かな式を営なむことが出来るのも特徴です。もちろん、新型コロナウィルス感染予防対策を万全に行っておりますので、安心してご利用ください。<br/>
+<a href="https://lin.ee/xQ2akmQ" target="new"><font color="#0000FF">https://lin.ee/xQ2akmQ</font></a><br/>
 <br/>
-ホール、葬儀に関しましては、どんなことでもお気軽にお問い合わせください。<br/>
+<font color="#000000">
+1.上記のURLをタップ。<br/>
+2.LINEの友だち追加画面が開きます。<br/>
+3.株式会社 安心典礼『追加ボタン』をタップ。<br/>
+4.友だち追加完了。<br/>
+5.トークに株式会社 安心典礼からのご案内が届きます。</font></p>
+                        <br/>
+                        <br/>
+	        		  <p class="mainStrings">
+                        安心典礼 今月（4月）のお話<br/>
+                        <br/>
+                        ～灌仏会（花まつり）～<br/>
+今年は例年よりも桜の開花が早く、3月下旬には関東でも満開を迎えました。季節の移り変わり、1年が経つのはあっという間に感じます。3月13日からマスク着用が個人の判断とのアナウンスが政府から発せられ、街中や商業施設、交通機関においても素顔の人々の割合が増えてきた印象です。子どもから年配の方まで多くの笑顔が溢れる世の中に戻ってほしいものです。<br/>
+<br/>
+4月は仏教においてはお釈迦様の生誕を祝う灌仏会（かんぶつえ）が4月8日に行われます。この灌仏会は別名「花まつり」とも呼ばれます。由来は諸説ありますが、お釈迦様がルンビニー（ネパール南部タライ平原にある小さな村）の花園で生まれたことから「花まつり」になったというものや、4月初旬は桜を初めいろいろな花が咲き出すことからお釈迦様の誕生を「花まつり」という名前で祝うようになった等があります。<br/>
+<br/>
+花まつりでは、お釈迦様が生まれた時の姿の立像（誕生仏）に甘茶を（「アマチャ」という木の葉を煎じて作った飲み物）優しくかけて拝みます。これは天に9頭の龍が現れて聖なる水を吐き、それを産まれたばかりのお釈迦様の産湯に使ったという伝説にちなんでいます。<br/>
+<br/>
+また、お釈迦様の誕生秘話として、生まれてすぐに立ち上がって7歩歩き、右手で天を指し、左手では地を指して、「天上天下唯我独尊（てんじょうてんがゆいがどくそん）」と言ったという伝説が言い伝えられています。この言葉の意味は、「すべての人は平等で、尊い使命を持って生まれたきた」という意味があります。<br/>
+<br/>
+また、寺院を訪れた人々にも振る舞われる甘茶は、神様の飲み物で、飲むと不老不死になれるという言い伝えもあります。<br/>
+<br/>
+弊社フューネラルホール使用の「家族葬プラン」は、ホールの利用料を含んでおり、葬儀費用を抑えることが可能です。（※白木祭壇使用）約30名が参列可能なプライベートの空間でゆっくりと故人さまを偲んでいただけます。人生最後のセレモニーを心を込めてサポートさせていただきます。<br/>
+<br/>
+低価格帯のご葬儀プランには、フラワー祭壇を使用する「きずな葬」、「つばさ葬」（告別式のみ）もございます。故人さま、ご親族さまのご要望に寄り添った最適なプランをご提案させていただきます。<br/>
+<br/>
+また弊社では、様々な宗教・宗派でのご葬儀も承っております。特に溝の口キリスト教会ウインディチャペルにおきましては、これまで数多くのキリスト教式のご葬儀を執り行わせていただきました。～<a href="../windy.php"><font color="#0000FF">こちらから</font></a>～<br/>
+<br/>
+今後とも地域の皆様のニーズにお応え出来るよう努力していく所存でございます。<br/>
+川崎市葬儀/宮前区葬儀/真心の葬儀<br>
+<br>
 電話：044-975-3853</p>
 		        		<div id="mainTel" class="mt20">
 		        			<a href="tel:0449753853"><img src="images/telButton.png"></a>
@@ -179,34 +200,47 @@ if(isset($_POST['send']) && !empty($_SESSION['email']) ){
 			        		<div id="title1" class="title mt60">
 			        			<img src="images/title1.png" alt="葬儀費用は?">
 			        		</div>
-			        		<div id="title1ImageBox">
-			        			<h2>直葬プラン 275,000円（税込）</h2>
-			        			<img src="images/title2img.jpg" width="200" height="119">
-			        			<h3>火葬のみの最もシンプルな葬儀です</h3>
-
+                            <br/>
+                            <div id="title1ImageBox">
+			        			<h2>家族葬プラン 418,000円（税込）</h2>
+			        			<img src="images/new-family.jpg" width="200" height="119">
+			        			<h3>弊社ホールご利用（白木祭壇4段）限定<br/>
+                                （通夜・告別式）</h3>
 			        		</div>
-			        		<div id="title1detail">
-                            　　<img src="images/title2-detail.jpg" width="350" height="450"> </div>
+			        		<div id="title1detail"><img src="images/new-family-detail.jpg" width="350" height="568"></div>
                             <br/>
-                            <br/>
-                            <div id="title1ImageBox">
-		        			  <h2>1日葬プラン 363,000円（税込）</h2>
-		        			  　<img src="images/title3img.jpg" width="200" height="119">
-			        			<h3>フラワー6尺祭壇（告別式のみ）</h3>
-
-		        		  </div>
-                            <br/>
-			        		<div id="title1detail">
-	        			    <img src="images/title3-detail.jpg" width="350" height="568"> </div>
                             <br/>
                             <br/>
                             <div id="title1ImageBox">
-			        			<h2>家族葬プラン 429,000円（税込）</h2>
+			        			<h2>きずな葬プラン 429,000円（税込）</h2>
 			        			<img src="images/title4img.jpg" width="200" height="119">
-			        			<h3>白木6尺もしくはフラワー6尺祭壇</h3>
-
+			        			<h3>白木6尺もしくはフラワー6尺祭壇<br/>
+                                （通夜・告別式）</h3>
 			        		</div>
 			        		<div id="title1detail"><img src="images/title4-detail.jpg" width="350" height="568"></div>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <div id="title1ImageBox">
+                                <h2>つばさ葬プラン 363,000円（税込）</h2>
+                                <img src="images/title3img.jpg" width="200" height="119">
+			        			<h3>フラワー6尺祭壇（告別式のみ）</h3>
+                            </div>
+			        		<div id="title1detail">
+	        			    <img src="images/title3-detail.jpg" width="350" height="568"></div>
+                            <br/>
+                            <br/>
+                            <br/>
+			        		<div id="title1ImageBox">
+			        			<h2>火葬プラン 275,000円（税込）</h2>
+			        			<img src="images/title2img.jpg" width="200" height="119">
+			        			<h3>火葬のみの最もシンプルな葬儀です</h3>
+                            </div>
+			        		<div id="title1detail">
+                            <img src="images/title2-detail.jpg" width="350" height="450"></div>
+                            <br/>
+                            <br/>
+                            
 			        		<p class="moreInfo">
 			        		様々なプランをご用意いたします。<br>
 							PC版ホームページもご覧ください。<br>

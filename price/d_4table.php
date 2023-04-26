@@ -133,7 +133,7 @@
             </tr>
 
             <tr>
-              <td style="border:1px solid #000;text-align:center;font-size:18px;padding:5px;font-weight:bold;">一日葬 (告別式)</td>
+              <td style="border:1px solid #000;text-align:center;font-size:18px;padding:5px;font-weight:bold;">つばさ葬 (告別式)</td>
             </tr>
               </tbody>
             </table>
