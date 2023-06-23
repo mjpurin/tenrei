@@ -143,17 +143,7 @@
     }
   });
 
-  /**
-   * Hero carousel indicators
-   */
-  let heroCarouselIndicators = select("#hero-carousel-indicators")
-  let heroCarouselItems = select('#heroCarousel .carousel-item', true)
-
-  heroCarouselItems.forEach((item, index) => {
-    (index === 0) ?
-    heroCarouselIndicators.innerHTML += "<li data-bs-target='#heroCarousel' data-bs-slide-to='" + index + "' class='active'></li>":
-      heroCarouselIndicators.innerHTML += "<li data-bs-target='#heroCarousel' data-bs-slide-to='" + index + "'></li>"
-  });
+  
 
   /**
    * Skills animation
@@ -184,6 +174,13 @@
       });
 
       let portfolioFilters = select('#portfolio-flters li', true);
+
+      portfolioIsotope.arrange({
+        filter: '.filter-d'
+      });
+      portfolioIsotope.on('arrangeComplete', function() {
+        AOS.refresh()
+      });
 
       on('click', '#portfolio-flters li', function(e) {
         e.preventDefault();
